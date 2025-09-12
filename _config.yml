@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chris Broyles' Portfolio
+title: Chris Broyles Portfolio
 email: cdbroyles1986@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Junior Software Developer portfolio by Chris Broyles. 
   Features React and Python projects, technical skills, and a 
   background in math and analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cdbroyles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: cdbroyles
 github_username:  cdbroyles
 
