@@ -4,12 +4,14 @@
 
 layout: default
 title: Homepage
+
 ---
 
+![Profile Image](assets/images/ProfilePhoto.jpg){: width="150"}
 # Chris Broyles
 **Problem Solver | Collaborative Thinker | Aspiring Software Developer**
 
-![Profile Image](files/ProfilePhoto.jpg)
+
 
 Hello! I'm Chris Broyles. I am an analytical and detail oriented professional with a strong foundation in mathematics and software development. After teaching mathematics classes up to Calculus 3 and currently working as a Material Estimator at Boeing, I'm transitioning into software development to apply my problem solving skills in building innovative solutions.
 
